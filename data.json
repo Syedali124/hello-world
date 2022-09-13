@@ -1,0 +1,2293 @@
+{
+    "countries": [
+      {
+        "countriesGroup": [
+          {
+            "name": "Aruba",
+            "states": [
+              {
+                "name": "Aruba",
+                "cdUrl": "/course-directory/aw",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "282",
+                    "courseCount": "1",
+                    "name": "Aruba",
+                    "slug": "282-aruba"
+                  }
+                ],
+                "seoFriendlyName": "aruba"
+              }
+            ]
+          },
+          {
+            "name": "Australia",
+            "states": [
+              {
+                "name": "Australia",
+                "cdUrl": "/course-directory/au",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "452",
+                    "courseCount": "5",
+                    "name": "New South Wales",
+                    "slug": "452-new-south-wales"
+                  },
+                  {
+                    "id": "453",
+                    "courseCount": null,
+                    "name": "Victoria",
+                    "slug": "453-victoria"
+                  },
+                  {
+                    "id": "454",
+                    "courseCount": "5",
+                    "name": "Queensland",
+                    "slug": "454-queensland"
+                  },
+                  {
+                    "id": "455",
+                    "courseCount": "5",
+                    "name": "South Australia",
+                    "slug": "455-south-australia"
+                  },
+                  {
+                    "id": "458",
+                    "courseCount": "5",
+                    "name": "Tasmania",
+                    "slug": "458-tasmania"
+                  },
+                  {
+                    "id": "456",
+                    "courseCount": "5",
+                    "name": "Western Australia",
+                    "slug": "456-western-australia"
+                  },
+                  {
+                    "id": "459",
+                    "courseCount": "5",
+                    "name": "ACT",
+                    "slug": "459-act"
+                  },
+                  {
+                    "id": "457",
+                    "courseCount": "5",
+                    "name": "Northern Territory",
+                    "slug": "457-northern-territory"
+                  }
+                ],
+                "seoFriendlyName": "australia"
+              }
+            ]
+          },
+          {
+            "name": "Bermuda",
+            "states": [
+              {
+                "name": "Bermuda",
+                "cdUrl": "/course-directory/bm",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "280",
+                    "courseCount": "5",
+                    "name": "Bermuda",
+                    "slug": "280-bermuda"
+                  }
+                ],
+                "seoFriendlyName": "bermuda"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "countriesGroup": [
+          {
+            "name": "Canada",
+            "states": [
+              {
+                "name": "Alberta",
+                "cdUrl": "/course-directory/ca/ab",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "207",
+                    "courseCount": "17",
+                    "name": "Calgary",
+                    "slug": "207-calgary"
+                  },
+                  {
+                    "id": "206",
+                    "courseCount": "13",
+                    "name": "Edmonton",
+                    "slug": "206-edmonton"
+                  }
+                ],
+                "seoFriendlyName": "alberta"
+              },
+              {
+                "name": "British Columbia",
+                "cdUrl": "/course-directory/ca/bc",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "226",
+                    "courseCount": "8",
+                    "name": "Cranbrook",
+                    "slug": "226-cranbrook"
+                  },
+                  {
+                    "id": "224",
+                    "courseCount": "16",
+                    "name": "Kamloops",
+                    "slug": "224-kamloops"
+                  },
+                  {
+                    "id": "225",
+                    "courseCount": "16",
+                    "name": "Kelowna",
+                    "slug": "225-kelowna"
+                  },
+                  {
+                    "id": "221",
+                    "courseCount": "1",
+                    "name": "Prince George",
+                    "slug": "221-prince-george"
+                  },
+                  {
+                    "id": "220",
+                    "courseCount": "32",
+                    "name": "Sunshine Coast",
+                    "slug": "220-sunshine-coast"
+                  },
+                  {
+                    "id": "281",
+                    "courseCount": "35",
+                    "name": "Vancouver",
+                    "slug": "281-vancouver"
+                  },
+                  {
+                    "id": "223",
+                    "courseCount": "46",
+                    "name": "Victoria",
+                    "slug": "223-victoria"
+                  },
+                  {
+                    "id": "222",
+                    "courseCount": "16",
+                    "name": "Whistler",
+                    "slug": "222-whistler"
+                  }
+                ],
+                "seoFriendlyName": "british-columbia"
+              },
+              {
+                "name": "Ontario",
+                "cdUrl": "/course-directory/ca/on",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "208",
+                    "courseCount": "23",
+                    "name": "Barrie",
+                    "slug": "208-barrie"
+                  },
+                  {
+                    "id": "209",
+                    "courseCount": "11",
+                    "name": "Burlington",
+                    "slug": "209-burlington"
+                  },
+                  {
+                    "id": "210",
+                    "courseCount": "11",
+                    "name": "Collingwood",
+                    "slug": "210-collingwood"
+                  },
+                  {
+                    "id": "211",
+                    "courseCount": "65",
+                    "name": "Hamilton",
+                    "slug": "211-hamilton"
+                  },
+                  {
+                    "id": "218",
+                    "courseCount": "8",
+                    "name": "Kingston",
+                    "slug": "218-kingston"
+                  },
+                  {
+                    "id": "212",
+                    "courseCount": "19",
+                    "name": "London-Sarnia-Windsor",
+                    "slug": "212-london-sarnia-windsor"
+                  },
+                  {
+                    "id": "216",
+                    "courseCount": "34",
+                    "name": "Ottawa",
+                    "slug": "216-ottawa"
+                  },
+                  {
+                    "id": "217",
+                    "courseCount": "19",
+                    "name": "Peterborough",
+                    "slug": "217-peterborough"
+                  },
+                  {
+                    "id": "167",
+                    "courseCount": "55",
+                    "name": "Toronto",
+                    "slug": "167-toronto"
+                  }
+                ],
+                "seoFriendlyName": "ontario"
+              },
+              {
+                "name": "Prince Edward Island",
+                "cdUrl": "/course-directory/ca/pe",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "219",
+                    "courseCount": "8",
+                    "name": "Prince Edward Island",
+                    "slug": "219-prince-edward-island"
+                  }
+                ],
+                "seoFriendlyName": "prince-edward-island"
+              },
+              {
+                "name": "Quebec",
+                "cdUrl": "/course-directory/ca/qc",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "227",
+                    "courseCount": "0",
+                    "name": "Montreal",
+                    "slug": "227-montreal"
+                  }
+                ],
+                "seoFriendlyName": "quebec"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "countriesGroup": [
+          {
+            "name": "Costa Rica",
+            "states": [
+              {
+                "name": "Costa Rica",
+                "cdUrl": "/course-directory/cr",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "574",
+                    "courseCount": "5",
+                    "name": "Costa Rica",
+                    "slug": "574-costa-rica"
+                  }
+                ],
+                "seoFriendlyName": "costa-rica"
+              }
+            ]
+          },
+          {
+            "name": "Dominican Republic",
+            "states": [
+              {
+                "name": "Dominican Republic",
+                "cdUrl": "/course-directory/do",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "575",
+                    "courseCount": "5",
+                    "name": "Dominican Republic",
+                    "slug": "575-dominican-republic"
+                  }
+                ],
+                "seoFriendlyName": "dominican-republic"
+              }
+            ]
+          },
+          {
+            "name": "Ireland",
+            "states": [
+              {
+                "name": "Ireland",
+                "cdUrl": "/course-directory/ie",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "235",
+                    "courseCount": "11",
+                    "name": "Cork",
+                    "slug": "235-cork"
+                  },
+                  {
+                    "id": "230",
+                    "courseCount": "15",
+                    "name": "Donegal",
+                    "slug": "230-donegal"
+                  },
+                  {
+                    "id": "237",
+                    "courseCount": "82",
+                    "name": "Dublin",
+                    "slug": "237-dublin"
+                  },
+                  {
+                    "id": "232",
+                    "courseCount": "9",
+                    "name": "Galway",
+                    "slug": "232-galway"
+                  },
+                  {
+                    "id": "234",
+                    "courseCount": "11",
+                    "name": "Kerry",
+                    "slug": "234-kerry"
+                  },
+                  {
+                    "id": "233",
+                    "courseCount": "12",
+                    "name": "Limerick",
+                    "slug": "233-limerick"
+                  },
+                  {
+                    "id": "231",
+                    "courseCount": "16",
+                    "name": "Sligo",
+                    "slug": "231-sligo"
+                  },
+                  {
+                    "id": "236",
+                    "courseCount": "24",
+                    "name": "Wexford",
+                    "slug": "236-wexford"
+                  }
+                ],
+                "seoFriendlyName": "ireland"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "countriesGroup": [
+          {
+            "name": "Jamaica",
+            "states": [
+              {
+                "name": "Jamaica",
+                "cdUrl": "/course-directory/jm",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "576",
+                    "courseCount": "5",
+                    "name": "Jamaica",
+                    "slug": "576-jamaica"
+                  }
+                ],
+                "seoFriendlyName": "jamaica"
+              }
+            ]
+          },
+          {
+            "name": "Malaysia",
+            "states": [
+              {
+                "name": "Malaysia",
+                "cdUrl": "/course-directory/my",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "577",
+                    "courseCount": "5",
+                    "name": "Johor",
+                    "slug": "577-johor"
+                  }
+                ],
+                "seoFriendlyName": "malaysia"
+              }
+            ]
+          },
+          {
+            "name": "Mexico",
+            "states": [
+              {
+                "name": "Mexico",
+                "cdUrl": "/course-directory/mx",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "276",
+                    "courseCount": "4",
+                    "name": "Cancun",
+                    "slug": "276-cancun"
+                  },
+                  {
+                    "id": "277",
+                    "courseCount": "2",
+                    "name": "Cozumel",
+                    "slug": "277-cozumel"
+                  },
+                  {
+                    "id": "278",
+                    "courseCount": "2",
+                    "name": "Los Cabos",
+                    "slug": "278-los-cabos"
+                  },
+                  {
+                    "id": "279",
+                    "courseCount": "3",
+                    "name": "Puerto Vallarta",
+                    "slug": "279-puerto-vallarta"
+                  }
+                ],
+                "seoFriendlyName": "mexico"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "countriesGroup": [
+          {
+            "name": "United Arab Emirates",
+            "states": [
+              {
+                "name": "United Arab Emirates",
+                "cdUrl": "/course-directory/ae",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "573",
+                    "courseCount": "5",
+                    "name": "Abu Dhabi",
+                    "slug": "573-abu-dhabi"
+                  },
+                  {
+                    "id": "572",
+                    "courseCount": "5",
+                    "name": "Dubai",
+                    "slug": "572-dubai"
+                  }
+                ],
+                "seoFriendlyName": "united-arab-emirates"
+              }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "states": [
+              {
+                "name": "England",
+                "cdUrl": "/course-directory/gb/en",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "259",
+                    "courseCount": "27",
+                    "name": "Bristol",
+                    "slug": "259-bristol"
+                  },
+                  {
+                    "id": "256",
+                    "courseCount": "39",
+                    "name": "Buckinghamshire",
+                    "slug": "256-buckinghamshire"
+                  },
+                  {
+                    "id": "258",
+                    "courseCount": "48",
+                    "name": "Crawley",
+                    "slug": "258-crawley"
+                  },
+                  {
+                    "id": "243",
+                    "courseCount": "71",
+                    "name": "Greater Manchester",
+                    "slug": "243-greater-manchester"
+                  },
+                  {
+                    "id": "255",
+                    "courseCount": "64",
+                    "name": "London",
+                    "slug": "255-london"
+                  },
+                  {
+                    "id": "242",
+                    "courseCount": "49",
+                    "name": "Merseyside & The Wirral",
+                    "slug": "242-merseyside-the-wirral"
+                  },
+                  {
+                    "id": "248",
+                    "courseCount": "30",
+                    "name": "South Yorkshire",
+                    "slug": "248-south-yorkshire"
+                  },
+                  {
+                    "id": "246",
+                    "courseCount": "40",
+                    "name": "Tyne & Wear",
+                    "slug": "246-tyne-wear"
+                  },
+                  {
+                    "id": "253",
+                    "courseCount": "27",
+                    "name": "West Midlands",
+                    "slug": "253-west-midlands"
+                  },
+                  {
+                    "id": "249",
+                    "courseCount": "58",
+                    "name": "West Yorkshire",
+                    "slug": "249-west-yorkshire"
+                  }
+                ],
+                "seoFriendlyName": "england"
+              },
+              {
+                "name": "Northern Ireland",
+                "cdUrl": "/course-directory/nir",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "238",
+                    "courseCount": "34",
+                    "name": "Ballymena",
+                    "slug": "238-ballymena"
+                  },
+                  {
+                    "id": "240",
+                    "courseCount": "27",
+                    "name": "Belfast",
+                    "slug": "240-belfast"
+                  },
+                  {
+                    "id": "239",
+                    "courseCount": "13",
+                    "name": "Fermanagh / South Tyrone",
+                    "slug": "239-fermanagh-south-tyrone"
+                  },
+                  {
+                    "id": "241",
+                    "courseCount": "17",
+                    "name": "Newcastle",
+                    "slug": "241-newcastle"
+                  }
+                ],
+                "seoFriendlyName": "northern-ireland"
+              },
+              {
+                "name": "Scotland",
+                "cdUrl": "/course-directory/gb/st",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "265",
+                    "courseCount": "25",
+                    "name": "Aberdeen City & Shire",
+                    "slug": "265-aberdeen-city-shire"
+                  },
+                  {
+                    "id": "266",
+                    "courseCount": "27",
+                    "name": "Ayrshire & Arran",
+                    "slug": "266-ayrshire-arran"
+                  },
+                  {
+                    "id": "268",
+                    "courseCount": "30",
+                    "name": "Dundee & Angus",
+                    "slug": "268-dundee-angus"
+                  },
+                  {
+                    "id": "269",
+                    "courseCount": "118",
+                    "name": "Edinburgh & The Lothians",
+                    "slug": "269-edinburgh-the-lothians"
+                  },
+                  {
+                    "id": "270",
+                    "courseCount": "107",
+                    "name": "Greater Glasgow & The Clyde Valley",
+                    "slug": "270-greater-glasgow-the-clyde-valley"
+                  },
+                  {
+                    "id": "271",
+                    "courseCount": "122",
+                    "name": "Loch Lomond, The Trossachs, Stirling & Forth Valley",
+                    "slug": "271-loch-lomond-the-trossachs-stirling-forth-valley"
+                  },
+                  {
+                    "id": "272",
+                    "courseCount": "133",
+                    "name": "Perthshire",
+                    "slug": "272-perthshire"
+                  },
+                  {
+                    "id": "273",
+                    "courseCount": "19",
+                    "name": "The Highlands",
+                    "slug": "273-the-highlands"
+                  },
+                  {
+                    "id": "274",
+                    "courseCount": "113",
+                    "name": "The Kingdom of Fife",
+                    "slug": "274-the-kingdom-of-fife"
+                  },
+                  {
+                    "id": "275",
+                    "courseCount": "95",
+                    "name": "The Scottish Borders",
+                    "slug": "275-the-scottish-borders"
+                  }
+                ],
+                "seoFriendlyName": "scotland"
+              },
+              {
+                "name": "Wales",
+                "cdUrl": "/course-directory/gb/wl",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "263",
+                    "courseCount": "17",
+                    "name": "North Wales",
+                    "slug": "263-north-wales"
+                  },
+                  {
+                    "id": "264",
+                    "courseCount": "38",
+                    "name": "South Wales",
+                    "slug": "264-south-wales"
+                  }
+                ],
+                "seoFriendlyName": "wales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "countriesGroup": [
+          {
+            "name": "United States",
+            "states": [
+              {
+                "name": "Alabama",
+                "cdUrl": "/course-directory/us/al",
+                "stateId": "24",
+                "cities": [
+                  {
+                    "id": "4",
+                    "courseCount": "12",
+                    "name": "Birmingham",
+                    "slug": "4-birmingham"
+                  },
+                  {
+                    "id": "5",
+                    "courseCount": "7",
+                    "name": "Huntsville",
+                    "slug": "5-huntsville"
+                  },
+                  {
+                    "id": "6",
+                    "courseCount": "12",
+                    "name": "Mobile",
+                    "slug": "6-mobile"
+                  },
+                  {
+                    "id": "7",
+                    "courseCount": "3",
+                    "name": "Montgomery",
+                    "slug": "7-montgomery"
+                  }
+                ],
+                "seoFriendlyName": "alabama"
+              },
+              {
+                "name": "Alaska",
+                "cdUrl": "/course-directory/us/ak",
+                "stateId": "50",
+                "cities": [
+                  {
+                    "id": "1",
+                    "courseCount": "0",
+                    "name": "Anchorage",
+                    "slug": "1-anchorage"
+                  },
+                  {
+                    "id": "2",
+                    "courseCount": "0",
+                    "name": "Fairbanks",
+                    "slug": "2-fairbanks"
+                  },
+                  {
+                    "id": "3",
+                    "courseCount": "0",
+                    "name": "Juneau",
+                    "slug": "3-juneau"
+                  }
+                ],
+                "seoFriendlyName": "alaska"
+              },
+              {
+                "name": "Arizona",
+                "cdUrl": "/course-directory/us/az",
+                "stateId": "2",
+                "cities": [
+                  {
+                    "id": "9",
+                    "courseCount": "132",
+                    "name": "Phoenix-Scottsdale",
+                    "slug": "9-phoenix-scottsdale"
+                  },
+                  {
+                    "id": "10",
+                    "courseCount": "4",
+                    "name": "Sedona",
+                    "slug": "10-sedona"
+                  },
+                  {
+                    "id": "11",
+                    "courseCount": "31",
+                    "name": "Tucson",
+                    "slug": "11-tucson"
+                  },
+                  {
+                    "id": "12",
+                    "courseCount": "1",
+                    "name": "Yuma",
+                    "slug": "12-yuma"
+                  }
+                ],
+                "seoFriendlyName": "arizona"
+              },
+              {
+                "name": "Arkansas",
+                "cdUrl": "/course-directory/us/ar",
+                "stateId": "38",
+                "cities": [
+                  {
+                    "id": "8",
+                    "courseCount": "6",
+                    "name": "Little Rock",
+                    "slug": "8-little-rock"
+                  }
+                ],
+                "seoFriendlyName": "arkansas"
+              },
+              {
+                "name": "California",
+                "cdUrl": "/course-directory/us/ca",
+                "stateId": "3",
+                "cities": [
+                  {
+                    "id": "13",
+                    "courseCount": "71",
+                    "name": "Anaheim",
+                    "slug": "13-anaheim"
+                  },
+                  {
+                    "id": "16",
+                    "courseCount": "71",
+                    "name": "Los Angeles",
+                    "slug": "16-los-angeles"
+                  },
+                  {
+                    "id": "18",
+                    "courseCount": "28",
+                    "name": "Napa Valley",
+                    "slug": "18-napa-valley"
+                  },
+                  {
+                    "id": "19",
+                    "courseCount": "67",
+                    "name": "Orange County",
+                    "slug": "19-orange-county"
+                  },
+                  {
+                    "id": "20",
+                    "courseCount": "41",
+                    "name": "Palm Springs",
+                    "slug": "20-palm-springs"
+                  },
+                  {
+                    "id": "21",
+                    "courseCount": "27",
+                    "name": "Sacramento",
+                    "slug": "21-sacramento"
+                  },
+                  {
+                    "id": "22",
+                    "courseCount": "60",
+                    "name": "San Diego",
+                    "slug": "22-san-diego"
+                  },
+                  {
+                    "id": "23",
+                    "courseCount": "77",
+                    "name": "San Francisco",
+                    "slug": "23-san-francisco"
+                  },
+                  {
+                    "id": "24",
+                    "courseCount": "36",
+                    "name": "San Jose",
+                    "slug": "24-san-jose"
+                  },
+                  {
+                    "id": "25",
+                    "courseCount": "71",
+                    "name": "Santa Monica",
+                    "slug": "25-santa-monica"
+                  },
+                  {
+                    "id": "580",
+                    "courseCount": "0",
+                    "name": "Southern California",
+                    "slug": "580-southern-california"
+                  }
+                ],
+                "seoFriendlyName": "california"
+              },
+              {
+                "name": "Colorado",
+                "cdUrl": "/course-directory/us/co",
+                "stateId": "26",
+                "cities": [
+                  {
+                    "id": "27",
+                    "courseCount": "0",
+                    "name": "Aspen",
+                    "slug": "27-aspen"
+                  },
+                  {
+                    "id": "28",
+                    "courseCount": "25",
+                    "name": "Boulder",
+                    "slug": "28-boulder"
+                  },
+                  {
+                    "id": "29",
+                    "courseCount": "6",
+                    "name": "Colorado Springs",
+                    "slug": "29-colorado-springs"
+                  },
+                  {
+                    "id": "30",
+                    "courseCount": "35",
+                    "name": "Denver",
+                    "slug": "30-denver"
+                  },
+                  {
+                    "id": "31",
+                    "courseCount": "1",
+                    "name": "Estes Park",
+                    "slug": "31-estes-park"
+                  },
+                  {
+                    "id": "32",
+                    "courseCount": "3",
+                    "name": "Vail",
+                    "slug": "32-vail"
+                  }
+                ],
+                "seoFriendlyName": "colorado"
+              },
+              {
+                "name": "Connecticut",
+                "cdUrl": "/course-directory/us/ct",
+                "stateId": "17",
+                "cities": [
+                  {
+                    "id": "33",
+                    "courseCount": "36",
+                    "name": "Hartford",
+                    "slug": "33-hartford"
+                  }
+                ],
+                "seoFriendlyName": "connecticut"
+              },
+              {
+                "name": "Delaware",
+                "cdUrl": "/course-directory/us/de",
+                "stateId": "39",
+                "cities": [
+                  {
+                    "id": "35",
+                    "courseCount": "26",
+                    "name": "Wilmington",
+                    "slug": "35-wilmington"
+                  }
+                ],
+                "seoFriendlyName": "delaware"
+              },
+              {
+                "name": "Florida",
+                "cdUrl": "/course-directory/us/fl",
+                "stateId": "1",
+                "cities": [
+                  {
+                    "id": "201",
+                    "courseCount": "20",
+                    "name": "Daytona",
+                    "slug": "201-daytona"
+                  },
+                  {
+                    "id": "190",
+                    "courseCount": "29",
+                    "name": "Destin",
+                    "slug": "190-destin"
+                  },
+                  {
+                    "id": "36",
+                    "courseCount": "32",
+                    "name": "Ft. Lauderdale",
+                    "slug": "36-ft-lauderdale"
+                  },
+                  {
+                    "id": "37",
+                    "courseCount": "29",
+                    "name": "Jacksonville",
+                    "slug": "37-jacksonville"
+                  },
+                  {
+                    "id": "38",
+                    "courseCount": "27",
+                    "name": "Miami",
+                    "slug": "38-miami"
+                  },
+                  {
+                    "id": "203",
+                    "courseCount": "22",
+                    "name": "New Smyrna Beach",
+                    "slug": "203-new-smyrna-beach"
+                  },
+                  {
+                    "id": "41",
+                    "courseCount": "82",
+                    "name": "Orlando",
+                    "slug": "41-orlando"
+                  },
+                  {
+                    "id": "192",
+                    "courseCount": "37",
+                    "name": "Sarasota-Bradenton",
+                    "slug": "192-sarasota-bradenton"
+                  },
+                  {
+                    "id": "43",
+                    "courseCount": "122",
+                    "name": "Tampa",
+                    "slug": "43-tampa"
+                  },
+                  {
+                    "id": "44",
+                    "courseCount": "33",
+                    "name": "West Palm Beach",
+                    "slug": "44-west-palm-beach"
+                  },
+                  {
+                    "id": "579",
+                    "courseCount": "0",
+                    "name": "South Florida",
+                    "slug": "579-south-florida"
+                  }
+                ],
+                "seoFriendlyName": "florida"
+              },
+              {
+                "name": "Georgia",
+                "cdUrl": "/course-directory/us/ga",
+                "stateId": "9",
+                "cities": [
+                  {
+                    "id": "188",
+                    "courseCount": "66",
+                    "name": "Athens-Gainesville",
+                    "slug": "188-athens-gainesville"
+                  },
+                  {
+                    "id": "45",
+                    "courseCount": "45",
+                    "name": "Atlanta",
+                    "slug": "45-atlanta"
+                  },
+                  {
+                    "id": "46",
+                    "courseCount": "6",
+                    "name": "Augusta",
+                    "slug": "46-augusta"
+                  },
+                  {
+                    "id": "47",
+                    "courseCount": "3",
+                    "name": "Macon",
+                    "slug": "47-macon"
+                  },
+                  {
+                    "id": "48",
+                    "courseCount": "31",
+                    "name": "Savannah",
+                    "slug": "48-savannah"
+                  },
+                  {
+                    "id": "183",
+                    "courseCount": "0",
+                    "name": "Valdosta",
+                    "slug": "183-valdosta"
+                  }
+                ],
+                "seoFriendlyName": "georgia"
+              },
+              {
+                "name": "Hawaii",
+                "cdUrl": "/course-directory/us/hi",
+                "stateId": "33",
+                "cities": [
+                  {
+                    "id": "49",
+                    "courseCount": "5",
+                    "name": "Big Island",
+                    "slug": "49-big-island"
+                  },
+                  {
+                    "id": "166",
+                    "courseCount": "26",
+                    "name": "Hawaii",
+                    "slug": "166-hawaii"
+                  },
+                  {
+                    "id": "50",
+                    "courseCount": "1",
+                    "name": "Kauai",
+                    "slug": "50-kauai"
+                  },
+                  {
+                    "id": "51",
+                    "courseCount": "7",
+                    "name": "Maui",
+                    "slug": "51-maui"
+                  },
+                  {
+                    "id": "52",
+                    "courseCount": "13",
+                    "name": "Oahu",
+                    "slug": "52-oahu"
+                  }
+                ],
+                "seoFriendlyName": "hawaii"
+              },
+              {
+                "name": "Idaho",
+                "cdUrl": "/course-directory/us/id",
+                "stateId": "42",
+                "cities": [
+                  {
+                    "id": "54",
+                    "courseCount": "1",
+                    "name": "Boise",
+                    "slug": "54-boise"
+                  },
+                  {
+                    "id": "55",
+                    "courseCount": "0",
+                    "name": "Idaho Falls",
+                    "slug": "55-idaho-falls"
+                  }
+                ],
+                "seoFriendlyName": "idaho"
+              },
+              {
+                "name": "Illinois",
+                "cdUrl": "/course-directory/us/il",
+                "stateId": "8",
+                "cities": [
+                  {
+                    "id": "173",
+                    "courseCount": "3",
+                    "name": "Bloomington",
+                    "slug": "173-bloomington"
+                  },
+                  {
+                    "id": "56",
+                    "courseCount": "95",
+                    "name": "Chicago",
+                    "slug": "56-chicago"
+                  },
+                  {
+                    "id": "172",
+                    "courseCount": "8",
+                    "name": "Peoria",
+                    "slug": "172-peoria"
+                  },
+                  {
+                    "id": "176",
+                    "courseCount": "24",
+                    "name": "Rockford",
+                    "slug": "176-rockford"
+                  },
+                  {
+                    "id": "197",
+                    "courseCount": "0",
+                    "name": "Springfield-Illinois",
+                    "slug": "197-springfield-illinois"
+                  },
+                  {
+                    "id": "194",
+                    "courseCount": "23",
+                    "name": "St. Louis Metro",
+                    "slug": "194-st-louis-metro"
+                  }
+                ],
+                "seoFriendlyName": "illinois"
+              },
+              {
+                "name": "Indiana",
+                "cdUrl": "/course-directory/us/in",
+                "stateId": "19",
+                "cities": [
+                  {
+                    "id": "205",
+                    "courseCount": "7",
+                    "name": "Fort Wayne",
+                    "slug": "205-fort-wayne"
+                  },
+                  {
+                    "id": "57",
+                    "courseCount": "34",
+                    "name": "Indianapolis",
+                    "slug": "57-indianapolis"
+                  },
+                  {
+                    "id": "578",
+                    "courseCount": "0",
+                    "name": "Northwest Indiana",
+                    "slug": "578-northwest-indiana"
+                  }
+                ],
+                "seoFriendlyName": "indiana"
+              },
+              {
+                "name": "Iowa",
+                "cdUrl": "/course-directory/us/ia",
+                "stateId": "35",
+                "cities": [
+                  {
+                    "id": "175",
+                    "courseCount": "4",
+                    "name": "Davenport",
+                    "slug": "175-davenport"
+                  },
+                  {
+                    "id": "53",
+                    "courseCount": "5",
+                    "name": "Des Moines",
+                    "slug": "53-des-moines"
+                  }
+                ],
+                "seoFriendlyName": "iowa"
+              },
+              {
+                "name": "Kansas",
+                "cdUrl": "/course-directory/us/ks",
+                "stateId": "25",
+                "cities": [
+                  {
+                    "id": "58",
+                    "courseCount": "9",
+                    "name": "Topeka",
+                    "slug": "58-topeka"
+                  },
+                  {
+                    "id": "59",
+                    "courseCount": "3",
+                    "name": "Wichita",
+                    "slug": "59-wichita"
+                  }
+                ],
+                "seoFriendlyName": "kansas"
+              },
+              {
+                "name": "Kentucky",
+                "cdUrl": "/course-directory/us/ky",
+                "stateId": "22",
+                "cities": [
+                  {
+                    "id": "60",
+                    "courseCount": "19",
+                    "name": "Lexington",
+                    "slug": "60-lexington"
+                  },
+                  {
+                    "id": "61",
+                    "courseCount": "14",
+                    "name": "Louisville",
+                    "slug": "61-louisville"
+                  }
+                ],
+                "seoFriendlyName": "kentucky"
+              },
+              {
+                "name": "Louisiana",
+                "cdUrl": "/course-directory/us/la",
+                "stateId": "23",
+                "cities": [
+                  {
+                    "id": "62",
+                    "courseCount": "10",
+                    "name": "Baton Rouge",
+                    "slug": "62-baton-rouge"
+                  },
+                  {
+                    "id": "63",
+                    "courseCount": "4",
+                    "name": "Lafayette",
+                    "slug": "63-lafayette"
+                  },
+                  {
+                    "id": "64",
+                    "courseCount": "3",
+                    "name": "Lake Charles",
+                    "slug": "64-lake-charles"
+                  },
+                  {
+                    "id": "65",
+                    "courseCount": "11",
+                    "name": "New Orleans",
+                    "slug": "65-new-orleans"
+                  },
+                  {
+                    "id": "66",
+                    "courseCount": "3",
+                    "name": "Shreveport",
+                    "slug": "66-shreveport"
+                  }
+                ],
+                "seoFriendlyName": "louisiana"
+              },
+              {
+                "name": "Maine",
+                "cdUrl": "/course-directory/us/me",
+                "stateId": "41",
+                "cities": [
+                  {
+                    "id": "73",
+                    "courseCount": "0",
+                    "name": "Bar Harbor",
+                    "slug": "73-bar-harbor"
+                  },
+                  {
+                    "id": "228",
+                    "courseCount": "15",
+                    "name": "New England",
+                    "slug": "228-new-england"
+                  },
+                  {
+                    "id": "74",
+                    "courseCount": "10",
+                    "name": "Portland-Maine",
+                    "slug": "74-portland-maine"
+                  }
+                ],
+                "seoFriendlyName": "maine"
+              },
+              {
+                "name": "Maryland",
+                "cdUrl": "/course-directory/us/md",
+                "stateId": "21",
+                "cities": [
+                  {
+                    "id": "70",
+                    "courseCount": "10",
+                    "name": "Annapolis",
+                    "slug": "70-annapolis"
+                  },
+                  {
+                    "id": "71",
+                    "courseCount": "25",
+                    "name": "Baltimore",
+                    "slug": "71-baltimore"
+                  },
+                  {
+                    "id": "72",
+                    "courseCount": "12",
+                    "name": "Ocean City",
+                    "slug": "72-ocean-city"
+                  }
+                ],
+                "seoFriendlyName": "maryland"
+              },
+              {
+                "name": "Massachusetts",
+                "cdUrl": "/course-directory/us/ma",
+                "stateId": "15",
+                "cities": [
+                  {
+                    "id": "67",
+                    "courseCount": "18",
+                    "name": "Boston",
+                    "slug": "67-boston"
+                  },
+                  {
+                    "id": "68",
+                    "courseCount": "8",
+                    "name": "Cape Cod",
+                    "slug": "68-cape-cod"
+                  },
+                  {
+                    "id": "69",
+                    "courseCount": "13",
+                    "name": "Salem",
+                    "slug": "69-salem"
+                  }
+                ],
+                "seoFriendlyName": "massachusetts"
+              },
+              {
+                "name": "Michigan",
+                "cdUrl": "/course-directory/us/mi",
+                "stateId": "5",
+                "cities": [
+                  {
+                    "id": "75",
+                    "courseCount": "61",
+                    "name": "Detroit",
+                    "slug": "75-detroit"
+                  },
+                  {
+                    "id": "77",
+                    "courseCount": "14",
+                    "name": "Gaylord",
+                    "slug": "77-gaylord"
+                  },
+                  {
+                    "id": "76",
+                    "courseCount": "55",
+                    "name": "Grand Rapids",
+                    "slug": "76-grand-rapids"
+                  },
+                  {
+                    "id": "168",
+                    "courseCount": "22",
+                    "name": "Lansing",
+                    "slug": "168-lansing"
+                  },
+                  {
+                    "id": "78",
+                    "courseCount": "7",
+                    "name": "Petoskey",
+                    "slug": "78-petoskey"
+                  },
+                  {
+                    "id": "79",
+                    "courseCount": "10",
+                    "name": "Traverse City",
+                    "slug": "79-traverse-city"
+                  }
+                ],
+                "seoFriendlyName": "michigan"
+              },
+              {
+                "name": "Minnesota",
+                "cdUrl": "/course-directory/us/mn",
+                "stateId": "16",
+                "cities": [
+                  {
+                    "id": "170",
+                    "courseCount": "6",
+                    "name": "Duluth",
+                    "slug": "170-duluth"
+                  },
+                  {
+                    "id": "80",
+                    "courseCount": "71",
+                    "name": "Minneapolis",
+                    "slug": "80-minneapolis"
+                  }
+                ],
+                "seoFriendlyName": "minnesota"
+              },
+              {
+                "name": "Mississippi",
+                "cdUrl": "/course-directory/us/ms",
+                "stateId": "40",
+                "cities": [
+                  {
+                    "id": "85",
+                    "courseCount": "6",
+                    "name": "Biloxi",
+                    "slug": "85-biloxi"
+                  },
+                  {
+                    "id": "86",
+                    "courseCount": "1",
+                    "name": "Jackson",
+                    "slug": "86-jackson"
+                  }
+                ],
+                "seoFriendlyName": "mississippi"
+              },
+              {
+                "name": "Missouri",
+                "cdUrl": "/course-directory/us/mo",
+                "stateId": "13",
+                "cities": [
+                  {
+                    "id": "81",
+                    "courseCount": "3",
+                    "name": "Branson",
+                    "slug": "81-branson"
+                  },
+                  {
+                    "id": "82",
+                    "courseCount": "34",
+                    "name": "Kansas City",
+                    "slug": "82-kansas-city"
+                  },
+                  {
+                    "id": "83",
+                    "courseCount": "0",
+                    "name": "Springfield",
+                    "slug": "83-springfield"
+                  },
+                  {
+                    "id": "84",
+                    "courseCount": "37",
+                    "name": "St. Louis",
+                    "slug": "84-st-louis"
+                  }
+                ],
+                "seoFriendlyName": "missouri"
+              },
+              {
+                "name": "Montana",
+                "cdUrl": "/course-directory/us/mt",
+                "stateId": "45",
+                "cities": [
+                  {
+                    "id": "87",
+                    "courseCount": "1",
+                    "name": "Billings",
+                    "slug": "87-billings"
+                  }
+                ],
+                "seoFriendlyName": "montana"
+              },
+              {
+                "name": "Nebraska",
+                "cdUrl": "/course-directory/us/ne",
+                "stateId": "31",
+                "cities": [
+                  {
+                    "id": "95",
+                    "courseCount": "6",
+                    "name": "Lincoln",
+                    "slug": "95-lincoln"
+                  },
+                  {
+                    "id": "96",
+                    "courseCount": "23",
+                    "name": "Omaha",
+                    "slug": "96-omaha"
+                  }
+                ],
+                "seoFriendlyName": "nebraska"
+              },
+              {
+                "name": "Nevada",
+                "cdUrl": "/course-directory/us/nv",
+                "stateId": "12",
+                "cities": [
+                  {
+                    "id": "104",
+                    "courseCount": "37",
+                    "name": "Las Vegas",
+                    "slug": "104-las-vegas"
+                  },
+                  {
+                    "id": "169",
+                    "courseCount": "6",
+                    "name": "Laughlin",
+                    "slug": "169-laughlin"
+                  },
+                  {
+                    "id": "106",
+                    "courseCount": "6",
+                    "name": "Mesquite",
+                    "slug": "106-mesquite"
+                  },
+                  {
+                    "id": "105",
+                    "courseCount": "12",
+                    "name": "Reno",
+                    "slug": "105-reno"
+                  }
+                ],
+                "seoFriendlyName": "nevada"
+              },
+              {
+                "name": "New Hampshire",
+                "cdUrl": "/course-directory/us/nh",
+                "stateId": "36",
+                "cities": [
+                  {
+                    "id": "97",
+                    "courseCount": "5",
+                    "name": "Concord",
+                    "slug": "97-concord"
+                  }
+                ],
+                "seoFriendlyName": "new-hampshire"
+              },
+              {
+                "name": "New Jersey",
+                "cdUrl": "/course-directory/us/nj",
+                "stateId": "28",
+                "cities": [
+                  {
+                    "id": "98",
+                    "courseCount": "17",
+                    "name": "Atlantic City",
+                    "slug": "98-atlantic-city"
+                  },
+                  {
+                    "id": "99",
+                    "courseCount": "4",
+                    "name": "Cape May",
+                    "slug": "99-cape-may"
+                  },
+                  {
+                    "id": "198",
+                    "courseCount": "34",
+                    "name": "Crystal Springs Resort",
+                    "slug": "198-crystal-springs-resort"
+                  },
+                  {
+                    "id": "100",
+                    "courseCount": "36",
+                    "name": "Trenton",
+                    "slug": "100-trenton"
+                  }
+                ],
+                "seoFriendlyName": "new-jersey"
+              },
+              {
+                "name": "New Mexico",
+                "cdUrl": "/course-directory/us/nm",
+                "stateId": "43",
+                "cities": [
+                  {
+                    "id": "101",
+                    "courseCount": "0",
+                    "name": "Albuquerque",
+                    "slug": "101-albuquerque"
+                  },
+                  {
+                    "id": "102",
+                    "courseCount": "0",
+                    "name": "Carlsbad",
+                    "slug": "102-carlsbad"
+                  },
+                  {
+                    "id": "103",
+                    "courseCount": "1",
+                    "name": "Santa Fe",
+                    "slug": "103-santa-fe"
+                  }
+                ],
+                "seoFriendlyName": "new-mexico"
+              },
+              {
+                "name": "New York",
+                "cdUrl": "/course-directory/us/ny",
+                "stateId": "10",
+                "cities": [
+                  {
+                    "id": "107",
+                    "courseCount": "36",
+                    "name": "Albany",
+                    "slug": "107-albany"
+                  },
+                  {
+                    "id": "108",
+                    "courseCount": "34",
+                    "name": "Buffalo",
+                    "slug": "108-buffalo"
+                  },
+                  {
+                    "id": "109",
+                    "courseCount": "27",
+                    "name": "Long Island",
+                    "slug": "109-long-island"
+                  },
+                  {
+                    "id": "110",
+                    "courseCount": "47",
+                    "name": "New York Metro",
+                    "slug": "110-new-york-metro"
+                  },
+                  {
+                    "id": "111",
+                    "courseCount": "108",
+                    "name": "Niagara Falls",
+                    "slug": "111-niagara-falls"
+                  },
+                  {
+                    "id": "112",
+                    "courseCount": "19",
+                    "name": "Rochester",
+                    "slug": "112-rochester"
+                  },
+                  {
+                    "id": "113",
+                    "courseCount": "11",
+                    "name": "Syracuse",
+                    "slug": "113-syracuse"
+                  }
+                ],
+                "seoFriendlyName": "new-york"
+              },
+              {
+                "name": "North Carolina",
+                "cdUrl": "/course-directory/us/nc",
+                "stateId": "30",
+                "cities": [
+                  {
+                    "id": "88",
+                    "courseCount": "10",
+                    "name": "Asheville",
+                    "slug": "88-asheville"
+                  },
+                  {
+                    "id": "89",
+                    "courseCount": "20",
+                    "name": "Charlotte",
+                    "slug": "89-charlotte"
+                  },
+                  {
+                    "id": "90",
+                    "courseCount": "15",
+                    "name": "Greensboro",
+                    "slug": "90-greensboro"
+                  },
+                  {
+                    "id": "91",
+                    "courseCount": "14",
+                    "name": "Pinehurst",
+                    "slug": "91-pinehurst"
+                  },
+                  {
+                    "id": "92",
+                    "courseCount": "18",
+                    "name": "Raleigh",
+                    "slug": "92-raleigh"
+                  },
+                  {
+                    "id": "93",
+                    "courseCount": "6",
+                    "name": "Wilmington",
+                    "slug": "93-wilmington"
+                  }
+                ],
+                "seoFriendlyName": "north-carolina"
+              },
+              {
+                "name": "North Dakota",
+                "cdUrl": "/course-directory/us/nd",
+                "stateId": "48",
+                "cities": [
+                  {
+                    "id": "94",
+                    "courseCount": "0",
+                    "name": "Fargo",
+                    "slug": "94-fargo"
+                  }
+                ],
+                "seoFriendlyName": "north-dakota"
+              },
+              {
+                "name": "Ohio",
+                "cdUrl": "/course-directory/us/oh",
+                "stateId": "6",
+                "cities": [
+                  {
+                    "id": "186",
+                    "courseCount": "57",
+                    "name": "Akron-Canton",
+                    "slug": "186-akron-canton"
+                  },
+                  {
+                    "id": "114",
+                    "courseCount": "100",
+                    "name": "Cincinnati",
+                    "slug": "114-cincinnati"
+                  },
+                  {
+                    "id": "115",
+                    "courseCount": "55",
+                    "name": "Cleveland",
+                    "slug": "115-cleveland"
+                  },
+                  {
+                    "id": "116",
+                    "courseCount": "81",
+                    "name": "Columbus",
+                    "slug": "116-columbus"
+                  },
+                  {
+                    "id": "117",
+                    "courseCount": "32",
+                    "name": "Dayton",
+                    "slug": "117-dayton"
+                  },
+                  {
+                    "id": "182",
+                    "courseCount": "22",
+                    "name": "Toledo",
+                    "slug": "182-toledo"
+                  },
+                  {
+                    "id": "185",
+                    "courseCount": "23",
+                    "name": "Youngstown",
+                    "slug": "185-youngstown"
+                  }
+                ],
+                "seoFriendlyName": "ohio"
+              },
+              {
+                "name": "Oklahoma",
+                "cdUrl": "/course-directory/us/ok",
+                "stateId": "32",
+                "cities": [
+                  {
+                    "id": "118",
+                    "courseCount": "7",
+                    "name": "Oklahoma City",
+                    "slug": "118-oklahoma-city"
+                  },
+                  {
+                    "id": "119",
+                    "courseCount": "10",
+                    "name": "Tulsa",
+                    "slug": "119-tulsa"
+                  }
+                ],
+                "seoFriendlyName": "oklahoma"
+              },
+              {
+                "name": "Oregon",
+                "cdUrl": "/course-directory/us/or",
+                "stateId": "20",
+                "cities": [
+                  {
+                    "id": "179",
+                    "courseCount": "5",
+                    "name": "Ashland",
+                    "slug": "179-ashland"
+                  },
+                  {
+                    "id": "120",
+                    "courseCount": "11",
+                    "name": "Bend",
+                    "slug": "120-bend"
+                  },
+                  {
+                    "id": "121",
+                    "courseCount": "10",
+                    "name": "Eugene",
+                    "slug": "121-eugene"
+                  },
+                  {
+                    "id": "171",
+                    "courseCount": "13",
+                    "name": "Newport-Oregon",
+                    "slug": "171-newport-oregon"
+                  },
+                  {
+                    "id": "122",
+                    "courseCount": "52",
+                    "name": "Portland-Oregon",
+                    "slug": "122-portland-oregon"
+                  }
+                ],
+                "seoFriendlyName": "oregon"
+              },
+              {
+                "name": "Pennsylvania",
+                "cdUrl": "/course-directory/us/pa",
+                "stateId": "29",
+                "cities": [
+                  {
+                    "id": "123",
+                    "courseCount": "21",
+                    "name": "Gettysburg",
+                    "slug": "123-gettysburg"
+                  },
+                  {
+                    "id": "124",
+                    "courseCount": "19",
+                    "name": "Harrisburg",
+                    "slug": "124-harrisburg"
+                  },
+                  {
+                    "id": "193",
+                    "courseCount": "19",
+                    "name": "Lancaster",
+                    "slug": "193-lancaster"
+                  },
+                  {
+                    "id": "125",
+                    "courseCount": "19",
+                    "name": "Lancaster",
+                    "slug": "125-lancaster"
+                  },
+                  {
+                    "id": "126",
+                    "courseCount": "86",
+                    "name": "Philadelphia",
+                    "slug": "126-philadelphia"
+                  },
+                  {
+                    "id": "127",
+                    "courseCount": "29",
+                    "name": "Pittsburgh",
+                    "slug": "127-pittsburgh"
+                  },
+                  {
+                    "id": "174",
+                    "courseCount": "25",
+                    "name": "Poconos Mountains",
+                    "slug": "174-poconos-mountains"
+                  }
+                ],
+                "seoFriendlyName": "pennsylvania"
+              },
+              {
+                "name": "Puerto Rico",
+                "cdUrl": "/course-directory/us/pr",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "229",
+                    "courseCount": "5",
+                    "name": "Puerto Rico",
+                    "slug": "229-puerto-rico"
+                  }
+                ],
+                "seoFriendlyName": "puerto-rico"
+              },
+              {
+                "name": "Rhode Island",
+                "cdUrl": "/course-directory/us/ri",
+                "stateId": "37",
+                "cities": [
+                  {
+                    "id": "128",
+                    "courseCount": "18",
+                    "name": "Newport",
+                    "slug": "128-newport"
+                  },
+                  {
+                    "id": "129",
+                    "courseCount": "37",
+                    "name": "Providence",
+                    "slug": "129-providence"
+                  }
+                ],
+                "seoFriendlyName": "rhode-island"
+              },
+              {
+                "name": "South Carolina",
+                "cdUrl": "/course-directory/us/sc",
+                "stateId": "7",
+                "cities": [
+                  {
+                    "id": "130",
+                    "courseCount": "4",
+                    "name": "Charleston",
+                    "slug": "130-charleston"
+                  },
+                  {
+                    "id": "131",
+                    "courseCount": "11",
+                    "name": "Columbia",
+                    "slug": "131-columbia"
+                  },
+                  {
+                    "id": "132",
+                    "courseCount": "14",
+                    "name": "Greenville",
+                    "slug": "132-greenville"
+                  },
+                  {
+                    "id": "133",
+                    "courseCount": "32",
+                    "name": "Hilton Head",
+                    "slug": "133-hilton-head"
+                  },
+                  {
+                    "id": "134",
+                    "courseCount": "25",
+                    "name": "Myrtle Beach",
+                    "slug": "134-myrtle-beach"
+                  }
+                ],
+                "seoFriendlyName": "south-carolina"
+              },
+              {
+                "name": "South Dakota",
+                "cdUrl": "/course-directory/us/sd",
+                "stateId": "47",
+                "cities": [
+                  {
+                    "id": "135",
+                    "courseCount": "4",
+                    "name": "Rapid City",
+                    "slug": "135-rapid-city"
+                  },
+                  {
+                    "id": "136",
+                    "courseCount": "2",
+                    "name": "Sioux Falls",
+                    "slug": "136-sioux-falls"
+                  }
+                ],
+                "seoFriendlyName": "south-dakota"
+              },
+              {
+                "name": "Tennessee",
+                "cdUrl": "/course-directory/us/tn",
+                "stateId": "14",
+                "cities": [
+                  {
+                    "id": "137",
+                    "courseCount": "3",
+                    "name": "Chattanooga",
+                    "slug": "137-chattanooga"
+                  },
+                  {
+                    "id": "138",
+                    "courseCount": "23",
+                    "name": "Knoxville",
+                    "slug": "138-knoxville"
+                  },
+                  {
+                    "id": "139",
+                    "courseCount": "21",
+                    "name": "Memphis",
+                    "slug": "139-memphis"
+                  },
+                  {
+                    "id": "140",
+                    "courseCount": "19",
+                    "name": "Nashville",
+                    "slug": "140-nashville"
+                  }
+                ],
+                "seoFriendlyName": "tennessee"
+              },
+              {
+                "name": "Texas",
+                "cdUrl": "/course-directory/us/tx",
+                "stateId": "4",
+                "cities": [
+                  {
+                    "id": "195",
+                    "courseCount": "0",
+                    "name": "Amarillo",
+                    "slug": "195-amarillo"
+                  },
+                  {
+                    "id": "141",
+                    "courseCount": "26",
+                    "name": "Austin",
+                    "slug": "141-austin"
+                  },
+                  {
+                    "id": "142",
+                    "courseCount": "2",
+                    "name": "Corpus Christi",
+                    "slug": "142-corpus-christi"
+                  },
+                  {
+                    "id": "143",
+                    "courseCount": "50",
+                    "name": "Dallas - Ft. Worth",
+                    "slug": "143-dallas-ft-worth"
+                  },
+                  {
+                    "id": "144",
+                    "courseCount": "3",
+                    "name": "El Paso",
+                    "slug": "144-el-paso"
+                  },
+                  {
+                    "id": "191",
+                    "courseCount": "43",
+                    "name": "Fort Worth",
+                    "slug": "191-fort-worth"
+                  },
+                  {
+                    "id": "145",
+                    "courseCount": "42",
+                    "name": "Houston",
+                    "slug": "145-houston"
+                  },
+                  {
+                    "id": "199",
+                    "courseCount": "4",
+                    "name": "Lubbock",
+                    "slug": "199-lubbock"
+                  },
+                  {
+                    "id": "146",
+                    "courseCount": "20",
+                    "name": "San Antonio",
+                    "slug": "146-san-antonio"
+                  }
+                ],
+                "seoFriendlyName": "texas"
+              },
+              {
+                "name": "Utah",
+                "cdUrl": "/course-directory/us/ut",
+                "stateId": "34",
+                "cities": [
+                  {
+                    "id": "147",
+                    "courseCount": "0",
+                    "name": "Moab",
+                    "slug": "147-moab"
+                  },
+                  {
+                    "id": "148",
+                    "courseCount": "5",
+                    "name": "Park City",
+                    "slug": "148-park-city"
+                  },
+                  {
+                    "id": "149",
+                    "courseCount": "6",
+                    "name": "Salt Lake City",
+                    "slug": "149-salt-lake-city"
+                  },
+                  {
+                    "id": "150",
+                    "courseCount": "4",
+                    "name": "St. George",
+                    "slug": "150-st-george"
+                  }
+                ],
+                "seoFriendlyName": "utah"
+              },
+              {
+                "name": "Vermont",
+                "cdUrl": "/course-directory/us/vt",
+                "stateId": "46",
+                "cities": [
+                  {
+                    "id": "283",
+                    "courseCount": "2",
+                    "name": "Brattleboro",
+                    "slug": "283-brattleboro"
+                  },
+                  {
+                    "id": "460",
+                    "courseCount": "4",
+                    "name": "Stowe",
+                    "slug": "460-stowe"
+                  }
+                ],
+                "seoFriendlyName": "vermont"
+              },
+              {
+                "name": "Virginia",
+                "cdUrl": "/course-directory/us/va",
+                "stateId": "27",
+                "cities": [
+                  {
+                    "id": "151",
+                    "courseCount": "0",
+                    "name": "Charlottesville",
+                    "slug": "151-charlottesville"
+                  },
+                  {
+                    "id": "152",
+                    "courseCount": "18",
+                    "name": "Norfolk",
+                    "slug": "152-norfolk"
+                  },
+                  {
+                    "id": "153",
+                    "courseCount": "6",
+                    "name": "Richmond",
+                    "slug": "153-richmond"
+                  },
+                  {
+                    "id": "154",
+                    "courseCount": "3",
+                    "name": "Roanoke",
+                    "slug": "154-roanoke"
+                  },
+                  {
+                    "id": "155",
+                    "courseCount": "13",
+                    "name": "Virginia Beach",
+                    "slug": "155-virginia-beach"
+                  },
+                  {
+                    "id": "156",
+                    "courseCount": "9",
+                    "name": "Williamsburg",
+                    "slug": "156-williamsburg"
+                  }
+                ],
+                "seoFriendlyName": "virginia"
+              },
+              {
+                "name": "Washington",
+                "cdUrl": "/course-directory/us/wa",
+                "stateId": "11",
+                "cities": [
+                  {
+                    "id": "200",
+                    "courseCount": "8",
+                    "name": "Beillingham",
+                    "slug": "200-beillingham"
+                  },
+                  {
+                    "id": "180",
+                    "courseCount": "22",
+                    "name": "Olympia",
+                    "slug": "180-olympia"
+                  },
+                  {
+                    "id": "157",
+                    "courseCount": "55",
+                    "name": "Seattle",
+                    "slug": "157-seattle"
+                  },
+                  {
+                    "id": "158",
+                    "courseCount": "7",
+                    "name": "Spokane",
+                    "slug": "158-spokane"
+                  },
+                  {
+                    "id": "159",
+                    "courseCount": "54",
+                    "name": "Tacoma",
+                    "slug": "159-tacoma"
+                  },
+                  {
+                    "id": "184",
+                    "courseCount": "8",
+                    "name": "Wenatchee",
+                    "slug": "184-wenatchee"
+                  }
+                ],
+                "seoFriendlyName": "washington"
+              },
+              {
+                "name": "Washington D.C.",
+                "cdUrl": "/course-directory/us/dc",
+                "stateId": null,
+                "cities": [
+                  {
+                    "id": "34",
+                    "courseCount": "44",
+                    "name": "Washington",
+                    "slug": "34-washington"
+                  }
+                ],
+                "seoFriendlyName": "washington-dc"
+              },
+              {
+                "name": "West Virginia",
+                "cdUrl": "/course-directory/us/wv",
+                "stateId": "44",
+                "cities": [
+                  {
+                    "id": "164",
+                    "courseCount": "5",
+                    "name": "Morgantown",
+                    "slug": "164-morgantown"
+                  }
+                ],
+                "seoFriendlyName": "west-virginia"
+              },
+              {
+                "name": "Wisconsin",
+                "cdUrl": "/course-directory/us/wi",
+                "stateId": "18",
+                "cities": [
+                  {
+                    "id": "160",
+                    "courseCount": "8",
+                    "name": "Green Bay",
+                    "slug": "160-green-bay"
+                  },
+                  {
+                    "id": "161",
+                    "courseCount": "46",
+                    "name": "Lake Geneva",
+                    "slug": "161-lake-geneva"
+                  },
+                  {
+                    "id": "162",
+                    "courseCount": "14",
+                    "name": "Madison",
+                    "slug": "162-madison"
+                  },
+                  {
+                    "id": "163",
+                    "courseCount": "21",
+                    "name": "Milwaukee",
+                    "slug": "163-milwaukee"
+                  }
+                ],
+                "seoFriendlyName": "wisconsin"
+              },
+              {
+                "name": "Wyoming",
+                "cdUrl": "/course-directory/us/wy",
+                "stateId": "49",
+                "cities": [
+                  {
+                    "id": "196",
+                    "courseCount": "1",
+                    "name": "Casper",
+                    "slug": "196-casper"
+                  },
+                  {
+                    "id": "165",
+                    "courseCount": "1",
+                    "name": "Jackson",
+                    "slug": "165-jackson"
+                  }
+                ],
+                "seoFriendlyName": "wyoming"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

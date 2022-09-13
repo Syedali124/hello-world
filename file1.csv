@@ -1,0 +1,273 @@
+,id,courseCount,name,slug,state,countryName
+0,282,1,Aruba,282-aruba,Aruba,Aruba
+1,452,5,New South Wales,452-new-south-wales,Australia,Australia
+2,453,,Victoria,453-victoria,Australia,Australia
+3,454,5,Queensland,454-queensland,Australia,Australia
+4,455,5,South Australia,455-south-australia,Australia,Australia
+5,458,5,Tasmania,458-tasmania,Australia,Australia
+6,456,5,Western Australia,456-western-australia,Australia,Australia
+7,459,5,ACT,459-act,Australia,Australia
+8,457,5,Northern Territory,457-northern-territory,Australia,Australia
+9,280,5,Bermuda,280-bermuda,Bermuda,Bermuda
+10,207,17,Calgary,207-calgary,Alberta,Canada
+11,206,13,Edmonton,206-edmonton,Alberta,Canada
+12,226,8,Cranbrook,226-cranbrook,British Columbia,Canada
+13,224,16,Kamloops,224-kamloops,British Columbia,Canada
+14,225,16,Kelowna,225-kelowna,British Columbia,Canada
+15,221,1,Prince George,221-prince-george,British Columbia,Canada
+16,220,32,Sunshine Coast,220-sunshine-coast,British Columbia,Canada
+17,281,35,Vancouver,281-vancouver,British Columbia,Canada
+18,223,46,Victoria,223-victoria,British Columbia,Canada
+19,222,16,Whistler,222-whistler,British Columbia,Canada
+20,208,23,Barrie,208-barrie,Ontario,Canada
+21,209,11,Burlington,209-burlington,Ontario,Canada
+22,210,11,Collingwood,210-collingwood,Ontario,Canada
+23,211,65,Hamilton,211-hamilton,Ontario,Canada
+24,218,8,Kingston,218-kingston,Ontario,Canada
+25,212,19,London-Sarnia-Windsor,212-london-sarnia-windsor,Ontario,Canada
+26,216,34,Ottawa,216-ottawa,Ontario,Canada
+27,217,19,Peterborough,217-peterborough,Ontario,Canada
+28,167,55,Toronto,167-toronto,Ontario,Canada
+29,219,8,Prince Edward Island,219-prince-edward-island,Prince Edward Island,Canada
+30,227,0,Montreal,227-montreal,Quebec,Canada
+31,574,5,Costa Rica,574-costa-rica,Costa Rica,Costa Rica
+32,575,5,Dominican Republic,575-dominican-republic,Dominican Republic,Dominican Republic
+33,235,11,Cork,235-cork,Ireland,Ireland
+34,230,15,Donegal,230-donegal,Ireland,Ireland
+35,237,82,Dublin,237-dublin,Ireland,Ireland
+36,232,9,Galway,232-galway,Ireland,Ireland
+37,234,11,Kerry,234-kerry,Ireland,Ireland
+38,233,12,Limerick,233-limerick,Ireland,Ireland
+39,231,16,Sligo,231-sligo,Ireland,Ireland
+40,236,24,Wexford,236-wexford,Ireland,Ireland
+41,576,5,Jamaica,576-jamaica,Jamaica,Jamaica
+42,577,5,Johor,577-johor,Malaysia,Malaysia
+43,276,4,Cancun,276-cancun,Mexico,Mexico
+44,277,2,Cozumel,277-cozumel,Mexico,Mexico
+45,278,2,Los Cabos,278-los-cabos,Mexico,Mexico
+46,279,3,Puerto Vallarta,279-puerto-vallarta,Mexico,Mexico
+47,573,5,Abu Dhabi,573-abu-dhabi,United Arab Emirates,United Arab Emirates
+48,572,5,Dubai,572-dubai,United Arab Emirates,United Arab Emirates
+49,259,27,Bristol,259-bristol,England,United Kingdom
+50,256,39,Buckinghamshire,256-buckinghamshire,England,United Kingdom
+51,258,48,Crawley,258-crawley,England,United Kingdom
+52,243,71,Greater Manchester,243-greater-manchester,England,United Kingdom
+53,255,64,London,255-london,England,United Kingdom
+54,242,49,Merseyside & The Wirral,242-merseyside-the-wirral,England,United Kingdom
+55,248,30,South Yorkshire,248-south-yorkshire,England,United Kingdom
+56,246,40,Tyne & Wear,246-tyne-wear,England,United Kingdom
+57,253,27,West Midlands,253-west-midlands,England,United Kingdom
+58,249,58,West Yorkshire,249-west-yorkshire,England,United Kingdom
+59,238,34,Ballymena,238-ballymena,Northern Ireland,United Kingdom
+60,240,27,Belfast,240-belfast,Northern Ireland,United Kingdom
+61,239,13,Fermanagh / South Tyrone,239-fermanagh-south-tyrone,Northern Ireland,United Kingdom
+62,241,17,Newcastle,241-newcastle,Northern Ireland,United Kingdom
+63,265,25,Aberdeen City & Shire,265-aberdeen-city-shire,Scotland,United Kingdom
+64,266,27,Ayrshire & Arran,266-ayrshire-arran,Scotland,United Kingdom
+65,268,30,Dundee & Angus,268-dundee-angus,Scotland,United Kingdom
+66,269,118,Edinburgh & The Lothians,269-edinburgh-the-lothians,Scotland,United Kingdom
+67,270,107,Greater Glasgow & The Clyde Valley,270-greater-glasgow-the-clyde-valley,Scotland,United Kingdom
+68,271,122,"Loch Lomond, The Trossachs, Stirling & Forth Valley",271-loch-lomond-the-trossachs-stirling-forth-valley,Scotland,United Kingdom
+69,272,133,Perthshire,272-perthshire,Scotland,United Kingdom
+70,273,19,The Highlands,273-the-highlands,Scotland,United Kingdom
+71,274,113,The Kingdom of Fife,274-the-kingdom-of-fife,Scotland,United Kingdom
+72,275,95,The Scottish Borders,275-the-scottish-borders,Scotland,United Kingdom
+73,263,17,North Wales,263-north-wales,Wales,United Kingdom
+74,264,38,South Wales,264-south-wales,Wales,United Kingdom
+75,4,12,Birmingham,4-birmingham,Alabama,United States
+76,5,7,Huntsville,5-huntsville,Alabama,United States
+77,6,12,Mobile,6-mobile,Alabama,United States
+78,7,3,Montgomery,7-montgomery,Alabama,United States
+79,1,0,Anchorage,1-anchorage,Alaska,United States
+80,2,0,Fairbanks,2-fairbanks,Alaska,United States
+81,3,0,Juneau,3-juneau,Alaska,United States
+82,9,132,Phoenix-Scottsdale,9-phoenix-scottsdale,Arizona,United States
+83,10,4,Sedona,10-sedona,Arizona,United States
+84,11,31,Tucson,11-tucson,Arizona,United States
+85,12,1,Yuma,12-yuma,Arizona,United States
+86,8,6,Little Rock,8-little-rock,Arkansas,United States
+87,13,71,Anaheim,13-anaheim,California,United States
+88,16,71,Los Angeles,16-los-angeles,California,United States
+89,18,28,Napa Valley,18-napa-valley,California,United States
+90,19,67,Orange County,19-orange-county,California,United States
+91,20,41,Palm Springs,20-palm-springs,California,United States
+92,21,27,Sacramento,21-sacramento,California,United States
+93,22,60,San Diego,22-san-diego,California,United States
+94,23,77,San Francisco,23-san-francisco,California,United States
+95,24,36,San Jose,24-san-jose,California,United States
+96,25,71,Santa Monica,25-santa-monica,California,United States
+97,580,0,Southern California,580-southern-california,California,United States
+98,27,0,Aspen,27-aspen,Colorado,United States
+99,28,25,Boulder,28-boulder,Colorado,United States
+100,29,6,Colorado Springs,29-colorado-springs,Colorado,United States
+101,30,35,Denver,30-denver,Colorado,United States
+102,31,1,Estes Park,31-estes-park,Colorado,United States
+103,32,3,Vail,32-vail,Colorado,United States
+104,33,36,Hartford,33-hartford,Connecticut,United States
+105,35,26,Wilmington,35-wilmington,Delaware,United States
+106,201,20,Daytona,201-daytona,Florida,United States
+107,190,29,Destin,190-destin,Florida,United States
+108,36,32,Ft. Lauderdale,36-ft-lauderdale,Florida,United States
+109,37,29,Jacksonville,37-jacksonville,Florida,United States
+110,38,27,Miami,38-miami,Florida,United States
+111,203,22,New Smyrna Beach,203-new-smyrna-beach,Florida,United States
+112,41,82,Orlando,41-orlando,Florida,United States
+113,192,37,Sarasota-Bradenton,192-sarasota-bradenton,Florida,United States
+114,43,122,Tampa,43-tampa,Florida,United States
+115,44,33,West Palm Beach,44-west-palm-beach,Florida,United States
+116,579,0,South Florida,579-south-florida,Florida,United States
+117,188,66,Athens-Gainesville,188-athens-gainesville,Georgia,United States
+118,45,45,Atlanta,45-atlanta,Georgia,United States
+119,46,6,Augusta,46-augusta,Georgia,United States
+120,47,3,Macon,47-macon,Georgia,United States
+121,48,31,Savannah,48-savannah,Georgia,United States
+122,183,0,Valdosta,183-valdosta,Georgia,United States
+123,49,5,Big Island,49-big-island,Hawaii,United States
+124,166,26,Hawaii,166-hawaii,Hawaii,United States
+125,50,1,Kauai,50-kauai,Hawaii,United States
+126,51,7,Maui,51-maui,Hawaii,United States
+127,52,13,Oahu,52-oahu,Hawaii,United States
+128,54,1,Boise,54-boise,Idaho,United States
+129,55,0,Idaho Falls,55-idaho-falls,Idaho,United States
+130,173,3,Bloomington,173-bloomington,Illinois,United States
+131,56,95,Chicago,56-chicago,Illinois,United States
+132,172,8,Peoria,172-peoria,Illinois,United States
+133,176,24,Rockford,176-rockford,Illinois,United States
+134,197,0,Springfield-Illinois,197-springfield-illinois,Illinois,United States
+135,194,23,St. Louis Metro,194-st-louis-metro,Illinois,United States
+136,205,7,Fort Wayne,205-fort-wayne,Indiana,United States
+137,57,34,Indianapolis,57-indianapolis,Indiana,United States
+138,578,0,Northwest Indiana,578-northwest-indiana,Indiana,United States
+139,175,4,Davenport,175-davenport,Iowa,United States
+140,53,5,Des Moines,53-des-moines,Iowa,United States
+141,58,9,Topeka,58-topeka,Kansas,United States
+142,59,3,Wichita,59-wichita,Kansas,United States
+143,60,19,Lexington,60-lexington,Kentucky,United States
+144,61,14,Louisville,61-louisville,Kentucky,United States
+145,62,10,Baton Rouge,62-baton-rouge,Louisiana,United States
+146,63,4,Lafayette,63-lafayette,Louisiana,United States
+147,64,3,Lake Charles,64-lake-charles,Louisiana,United States
+148,65,11,New Orleans,65-new-orleans,Louisiana,United States
+149,66,3,Shreveport,66-shreveport,Louisiana,United States
+150,73,0,Bar Harbor,73-bar-harbor,Maine,United States
+151,228,15,New England,228-new-england,Maine,United States
+152,74,10,Portland-Maine,74-portland-maine,Maine,United States
+153,70,10,Annapolis,70-annapolis,Maryland,United States
+154,71,25,Baltimore,71-baltimore,Maryland,United States
+155,72,12,Ocean City,72-ocean-city,Maryland,United States
+156,67,18,Boston,67-boston,Massachusetts,United States
+157,68,8,Cape Cod,68-cape-cod,Massachusetts,United States
+158,69,13,Salem,69-salem,Massachusetts,United States
+159,75,61,Detroit,75-detroit,Michigan,United States
+160,77,14,Gaylord,77-gaylord,Michigan,United States
+161,76,55,Grand Rapids,76-grand-rapids,Michigan,United States
+162,168,22,Lansing,168-lansing,Michigan,United States
+163,78,7,Petoskey,78-petoskey,Michigan,United States
+164,79,10,Traverse City,79-traverse-city,Michigan,United States
+165,170,6,Duluth,170-duluth,Minnesota,United States
+166,80,71,Minneapolis,80-minneapolis,Minnesota,United States
+167,85,6,Biloxi,85-biloxi,Mississippi,United States
+168,86,1,Jackson,86-jackson,Mississippi,United States
+169,81,3,Branson,81-branson,Missouri,United States
+170,82,34,Kansas City,82-kansas-city,Missouri,United States
+171,83,0,Springfield,83-springfield,Missouri,United States
+172,84,37,St. Louis,84-st-louis,Missouri,United States
+173,87,1,Billings,87-billings,Montana,United States
+174,95,6,Lincoln,95-lincoln,Nebraska,United States
+175,96,23,Omaha,96-omaha,Nebraska,United States
+176,104,37,Las Vegas,104-las-vegas,Nevada,United States
+177,169,6,Laughlin,169-laughlin,Nevada,United States
+178,106,6,Mesquite,106-mesquite,Nevada,United States
+179,105,12,Reno,105-reno,Nevada,United States
+180,97,5,Concord,97-concord,New Hampshire,United States
+181,98,17,Atlantic City,98-atlantic-city,New Jersey,United States
+182,99,4,Cape May,99-cape-may,New Jersey,United States
+183,198,34,Crystal Springs Resort,198-crystal-springs-resort,New Jersey,United States
+184,100,36,Trenton,100-trenton,New Jersey,United States
+185,101,0,Albuquerque,101-albuquerque,New Mexico,United States
+186,102,0,Carlsbad,102-carlsbad,New Mexico,United States
+187,103,1,Santa Fe,103-santa-fe,New Mexico,United States
+188,107,36,Albany,107-albany,New York,United States
+189,108,34,Buffalo,108-buffalo,New York,United States
+190,109,27,Long Island,109-long-island,New York,United States
+191,110,47,New York Metro,110-new-york-metro,New York,United States
+192,111,108,Niagara Falls,111-niagara-falls,New York,United States
+193,112,19,Rochester,112-rochester,New York,United States
+194,113,11,Syracuse,113-syracuse,New York,United States
+195,88,10,Asheville,88-asheville,North Carolina,United States
+196,89,20,Charlotte,89-charlotte,North Carolina,United States
+197,90,15,Greensboro,90-greensboro,North Carolina,United States
+198,91,14,Pinehurst,91-pinehurst,North Carolina,United States
+199,92,18,Raleigh,92-raleigh,North Carolina,United States
+200,93,6,Wilmington,93-wilmington,North Carolina,United States
+201,94,0,Fargo,94-fargo,North Dakota,United States
+202,186,57,Akron-Canton,186-akron-canton,Ohio,United States
+203,114,100,Cincinnati,114-cincinnati,Ohio,United States
+204,115,55,Cleveland,115-cleveland,Ohio,United States
+205,116,81,Columbus,116-columbus,Ohio,United States
+206,117,32,Dayton,117-dayton,Ohio,United States
+207,182,22,Toledo,182-toledo,Ohio,United States
+208,185,23,Youngstown,185-youngstown,Ohio,United States
+209,118,7,Oklahoma City,118-oklahoma-city,Oklahoma,United States
+210,119,10,Tulsa,119-tulsa,Oklahoma,United States
+211,179,5,Ashland,179-ashland,Oregon,United States
+212,120,11,Bend,120-bend,Oregon,United States
+213,121,10,Eugene,121-eugene,Oregon,United States
+214,171,13,Newport-Oregon,171-newport-oregon,Oregon,United States
+215,122,52,Portland-Oregon,122-portland-oregon,Oregon,United States
+216,123,21,Gettysburg,123-gettysburg,Pennsylvania,United States
+217,124,19,Harrisburg,124-harrisburg,Pennsylvania,United States
+218,193,19,Lancaster,193-lancaster,Pennsylvania,United States
+219,125,19,Lancaster,125-lancaster,Pennsylvania,United States
+220,126,86,Philadelphia,126-philadelphia,Pennsylvania,United States
+221,127,29,Pittsburgh,127-pittsburgh,Pennsylvania,United States
+222,174,25,Poconos Mountains,174-poconos-mountains,Pennsylvania,United States
+223,229,5,Puerto Rico,229-puerto-rico,Puerto Rico,United States
+224,128,18,Newport,128-newport,Rhode Island,United States
+225,129,37,Providence,129-providence,Rhode Island,United States
+226,130,4,Charleston,130-charleston,South Carolina,United States
+227,131,11,Columbia,131-columbia,South Carolina,United States
+228,132,14,Greenville,132-greenville,South Carolina,United States
+229,133,32,Hilton Head,133-hilton-head,South Carolina,United States
+230,134,25,Myrtle Beach,134-myrtle-beach,South Carolina,United States
+231,135,4,Rapid City,135-rapid-city,South Dakota,United States
+232,136,2,Sioux Falls,136-sioux-falls,South Dakota,United States
+233,137,3,Chattanooga,137-chattanooga,Tennessee,United States
+234,138,23,Knoxville,138-knoxville,Tennessee,United States
+235,139,21,Memphis,139-memphis,Tennessee,United States
+236,140,19,Nashville,140-nashville,Tennessee,United States
+237,195,0,Amarillo,195-amarillo,Texas,United States
+238,141,26,Austin,141-austin,Texas,United States
+239,142,2,Corpus Christi,142-corpus-christi,Texas,United States
+240,143,50,Dallas - Ft. Worth,143-dallas-ft-worth,Texas,United States
+241,144,3,El Paso,144-el-paso,Texas,United States
+242,191,43,Fort Worth,191-fort-worth,Texas,United States
+243,145,42,Houston,145-houston,Texas,United States
+244,199,4,Lubbock,199-lubbock,Texas,United States
+245,146,20,San Antonio,146-san-antonio,Texas,United States
+246,147,0,Moab,147-moab,Utah,United States
+247,148,5,Park City,148-park-city,Utah,United States
+248,149,6,Salt Lake City,149-salt-lake-city,Utah,United States
+249,150,4,St. George,150-st-george,Utah,United States
+250,283,2,Brattleboro,283-brattleboro,Vermont,United States
+251,460,4,Stowe,460-stowe,Vermont,United States
+252,151,0,Charlottesville,151-charlottesville,Virginia,United States
+253,152,18,Norfolk,152-norfolk,Virginia,United States
+254,153,6,Richmond,153-richmond,Virginia,United States
+255,154,3,Roanoke,154-roanoke,Virginia,United States
+256,155,13,Virginia Beach,155-virginia-beach,Virginia,United States
+257,156,9,Williamsburg,156-williamsburg,Virginia,United States
+258,200,8,Beillingham,200-beillingham,Washington,United States
+259,180,22,Olympia,180-olympia,Washington,United States
+260,157,55,Seattle,157-seattle,Washington,United States
+261,158,7,Spokane,158-spokane,Washington,United States
+262,159,54,Tacoma,159-tacoma,Washington,United States
+263,184,8,Wenatchee,184-wenatchee,Washington,United States
+264,34,44,Washington,34-washington,Washington D.C.,United States
+265,164,5,Morgantown,164-morgantown,West Virginia,United States
+266,160,8,Green Bay,160-green-bay,Wisconsin,United States
+267,161,46,Lake Geneva,161-lake-geneva,Wisconsin,United States
+268,162,14,Madison,162-madison,Wisconsin,United States
+269,163,21,Milwaukee,163-milwaukee,Wisconsin,United States
+270,196,1,Casper,196-casper,Wyoming,United States
+271,165,1,Jackson,165-jackson,Wyoming,United States
